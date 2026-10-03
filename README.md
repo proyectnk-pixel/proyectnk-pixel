@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="./assets/banner.png" alt="Kian Yletyinen — AI Product Builder" width="100%" />
+<img width="2032" height="774" alt="image" src="https://github.com/user-attachments/assets/6e2e9101-a408-4f02-bcbb-9f90ce2b017c" />
+
 
 # Kian Yletyinen
 
@@ -63,10 +64,6 @@ Most fitness and productivity tools give information. Goalance is designed to cr
 > **AI-powered simulation and testing for companies.**
 
 Simularis helps organizations test products, workflows, and decisions before deploying them into the real world. It uses AI agents that simulate realistic human behavior, enabling companies to validate experiences at scale.
-
-<div align="center">
-  <img src="./assets/simularis-preview.png" alt="Simularis product preview" width="90%" />
-</div>
 
 **What it does**
 
